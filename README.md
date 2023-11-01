@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Lingayat</h1>
-<h3 align="center">Seeking an opportunities that will develop my career in software development field, using my skills and knowledge to fulfil the growth and goals of the organization.</h3>
+<h3 align="center">I am Seeking an opportunities that will develop my career in software development field, using my skills and knowledge to fulfil the growth and goals of the organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhzz5&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzz5" /> </p>
 
