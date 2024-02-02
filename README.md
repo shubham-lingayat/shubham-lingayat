@@ -1,23 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham Lingayat</h1>
 <h3 align="center">I am Seeking an opportunities that will develop my career in software development field, using my skills and knowledge to fulfil the growth and goals of the organization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhzz5&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzz5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhzz5" alt="shubhzz5" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **A Low-Cost AI-Empowered Stethoscope and a Lightweight Model for Detecting Cardiac and Respiratory Diseases from Lung and Heart Auscultation Sounds**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for help with **Digital Stethoscope Hardware implementation using Raspberry-Pi single-board 2W**
-
-- 👨‍💻 All of my projects are available at [https://shubhamlingayat.netlify.app/](https://shubhamlingayat.netlify.app/)
+- 🤝 I’m looking for help with **Digital Stethoscope Hardware implementation using ESP-32 WROOM**
 
 - 📝 I am active for coding at GFG [https://www.geeksforgeeks.org/shubhamzzz/](https://www.geeksforgeeks.org/shubhamzzz/)
 
-- 💬 Ask me about **React JS, Data Science**
+- 💬 Ask me about **React JS, MERN Stack**
 
 - 📫 How to reach me **shubham.lingayat062@gmail.com**
 
