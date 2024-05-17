@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for help with **Digital Stethoscope Hardware implementation using ESP-32 WROOM**
+- 🤝 I’m looking for help with learning **MERN Stack**
 
 - 📝 I am active for coding at GFG [https://www.geeksforgeeks.org/shubhamzzz/](https://www.geeksforgeeks.org/shubhamzzz/)
 
