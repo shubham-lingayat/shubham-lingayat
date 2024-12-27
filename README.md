@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shubham Lingayat</h1>
-<h3 align="center">I am Seeking an opportunities that will develop my career in software development field, using my skills and knowledge to fulfil the growth and goals of the organization.</h3>
 
 - 🔭 I’m currently working in GladOwl Web Solutions Pvt. Ltd. as an Executive Developer - MERN Stack Developer.
 
