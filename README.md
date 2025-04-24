@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubham.lingayat062@gmail.com**
 
-- 📄 My Portfolio [https://shubhamlingayat.netlify.app/](https://shubhamlingayat.netlify.app/)
+- 📄 My Portfolio [https://shubhamlingayat.vercel.app/](https://shubhamlingayat.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
