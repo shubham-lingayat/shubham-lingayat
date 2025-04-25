@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Shubham Lingayat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Always+learning+something+new!🚀" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Shubham+Lingayat;MERN+Stack+Developer;React+Native+Learner;Let's+build+something+cool!+🚀)
 </p>
 
 ---
@@ -30,15 +30,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
-<h3>📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamzzz&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamzzz&theme=github-dark&hide_border=false" width="48%" />
-</p>
 
 ---
 
